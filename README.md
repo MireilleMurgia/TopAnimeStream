@@ -6,7 +6,7 @@ Works on major pc platform like Windows, Linux & Mac. You can currently watch an
 TopAnimeStream App is currently in `beta`
 
 ##How to use (Step by step)
-1. Register an account with TopAnimeStream from [https://www.topanimestream.com/en/register/](https://www.topanimestream.com/en/register/)
+1. Register an account with TopAnimeStream from [http://absolutelydecor.com/](here)
 2. Download the TopAnimeStream App here or from [https://www.topanimestream.com/en/downloads/](https://www.topanimestream.com/en/downloads/)
 3. Install the app with the setup file.
 4. Start the app, login and select the anime you want to watch and click play.

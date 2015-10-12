@@ -6,8 +6,8 @@ Works on major pc platform like Windows, Linux & Mac. You can currently watch an
 TopAnimeStream App is currently in `beta`
 
 ##How to use (Step by step)
-1. Register an account with TopAnimeStream from [http://absolutelydecor.com/](here)
-2. Download the TopAnimeStream App here or from [https://www.topanimestream.com/en/downloads/](https://www.topanimestream.com/en/downloads/)
+1. Register an account with TopAnimeStream from [here](http://absolutelydecor.com/)
+2. Download the TopAnimeStream App here or from [here](http://absolutelydecor.com/)
 3. Install the app with the setup file.
 4. Start the app, login and select the anime you want to watch and click play.
 5. Enjoy
@@ -27,7 +27,7 @@ TopAnimeStream App is currently in `beta`
 ###For programmers
 Feel free to fork the project and submit your changes as Pull Requests. If we agree with the new changes, we'll merge it into the master branch.
 ###For anime freaks
-If you love animes a lot and you are ready to contribute to the project. You should register an account at [https://www.topanimestream.com/en/register/](https://www.topanimestream.com/en/register/) and ask us what kind of work you want to contribute. For instance
+If you love animes a lot and you are ready to contribute to the project. You should register an account at [here](http://absolutelydecor.com/) and ask us what kind of work you want to contribute. For instance
 - Uploader
 - Translator
 - Moderator  
